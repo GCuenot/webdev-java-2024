@@ -1,0 +1,31 @@
+{
+    "utilisateurs": [
+       {
+           "id": "1",
+           "nom": "Patrick",
+           "email": "patrick@example.com",
+           "mot_de_passe": "password123",
+           "date_derniere_connexion": "2024-12-12T08:30:00",
+           "statut": "Oui",
+           "role": "utilisateur"
+       },
+       {
+           "id": "2",
+           "nom": "Marylise",
+           "email": "marylise@example.com",
+           "mot_de_passe": "securepass456",
+           "date_derniere_connexion": "2024-12-11T15:00:00",
+           "statut": "Oui",
+           "role": "intervenant"
+       },
+       {
+           "id": "3",
+           "nom": "Jean",
+           "email": "jean@example.com",
+           "mot_de_passe": "mypassword789",
+           "date_derniere_connexion": "2024-12-10T13:45:00",
+           "statut": "Non",
+           "role": "utilisateur"
+       }
+       ]
+   }
