@@ -26,6 +26,14 @@
         "date_derniere_connexion": "2024-12-10T13:45:00",
         "statut": "Non",
         "role": "utilisateur"
+    },
+     {
+        "nom": "Buno Test",
+        "email": "bunotest@example.com",
+        "mot_de_passe": "bunotest456",
+        "date_derniere_connexion": "2024-12-10T12:45:00",
+        "statut": "Non",
+        "role": "utilisateur"
     }
     ]
 }
