@@ -35,6 +35,17 @@
         "utilisateur_createur": "Jean",
         "poste_informatique": "3",
         "type_demande": "Demande de materiel"
+    },
+    {
+        "titre": "Probleme de connexion reseau",
+        "description": "L'utilisateur Buno Test ne peut pas se connecter au reseau local depuis son poste informatique.",
+        "date_creation": "2024-12-12T08:30:00",
+        "date_mise_a_jour": "2024-12-12T11:30:00",
+        "impact": "Bloquant",
+        "etat": "En cours",
+        "utilisateur_createur": "Patrick",
+        "poste_informatique": "1",
+        "type_demande": "Probleme réseau"
     }
     ]
 }
