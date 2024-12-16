@@ -1,0 +1,40 @@
+{
+   "tickets": [
+    {
+        "id": "1",
+        "titre": "Probleme de connexion reseau",
+        "description": "L'utilisateur Patrick ne peut pas se connecter au reseau local depuis son poste informatique.",
+        "date_creation": "2024-12-12T09:00:00",
+        "date_mise_a_jour": "2024-12-12T11:30:00",
+        "impact": "Bloquant",
+        "etat": "En cours",
+        "utilisateur_createur": "Patrick",
+        "poste_informatique": "1",
+        "type_demande": "Probleme réseau"
+    },
+    {
+        "id": "2",
+        "titre": "Mise à jour de logiciels",
+        "description": "Installation de la derniere version de Microsoft Office sur le poste de Marylise.",
+        "date_creation": "2024-12-11T14:15:00",
+        "date_mise_a_jour": "2024-12-11T16:45:00",
+        "impact": "Mineur",
+        "etat": "Resolu",
+        "utilisateur_createur": "Marylise",
+        "poste_informatique": "2",
+        "type_demande": "Mise à jour logicielle"
+    },
+    {
+        "id": "3",
+        "titre": "Demande de materiel",
+        "description": "Commande d'une nouvelle souris ergonomique pour Jean.",
+        "date_creation": "2024-12-10T10:30:00",
+        "date_mise_a_jour": "2024-12-10T12:00:00",
+        "impact": "Mineur",
+        "etat": "Ferme",
+        "utilisateur_createur": "Jean",
+        "poste_informatique": "3",
+        "type_demande": "Demande de materiel"
+    }
+    ]
+}
