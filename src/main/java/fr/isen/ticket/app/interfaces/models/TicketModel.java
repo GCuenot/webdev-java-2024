@@ -5,8 +5,6 @@ import fr.isen.ticket.app.interfaces.models.enums.ETAT_TICKET;
 import fr.isen.ticket.app.interfaces.models.enums.IMPACT;
 
 public class TicketModel {
-    private int id;
-
     private String titre;
 
     private String description;
@@ -24,5 +22,7 @@ public class TicketModel {
     private Date date_mise_a_jour;
 
     private Date date_creation;
+
+    private int id;
 
 }
