@@ -3,7 +3,7 @@ package fr.isen.ticket.app.interfaces.models;
 import java.util.Date;
 
 public class UtilisateurModel {
-    private int ID;
+    private int id;
 
     private String nom;
 
