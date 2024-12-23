@@ -1,5 +1,5 @@
 {
-    "poste informatique": [
+    "device": [
         {
             "id": "1",
             "utilisateur_affecte": "Patrick",
@@ -18,5 +18,5 @@
             "etat": "En commande",
             "configuration": "Processeur: Intel Core i5-10400, RAM: 8 Go DDR4, Stockage: SSD 256 Go, Carte graphique: Intégrée (Intel UHD 630), Système d'exploitation: Ubuntu 20.04"
         }
-        ]
-    }
+    ]
+}
