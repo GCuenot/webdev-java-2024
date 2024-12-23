@@ -22,9 +22,9 @@ public class TicketResource {
 
     // Méthode pour obtenir le tableau de tickets depuis le JSON
     private JSONArray getTicketsArray() throws IOException {
-        String jsonContent = lecteurJSON.lireJSON("tickets.json"); // Appel à la méthode lireJSON
+        String jsonContent = lecteurJSON.lireJSON("ticket.json"); // Appel à la méthode lireJSON
         JSONObject jsonObject = new JSONObject(jsonContent);
-        return jsonObject.getJSONArray("tickets");
+        return jsonObject.getJSONArray("ticket");
     }
 
     // GET : Récupérer tous les tickets
