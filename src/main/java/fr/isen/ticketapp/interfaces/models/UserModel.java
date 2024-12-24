@@ -2,7 +2,7 @@ package fr.isen.ticket.app.interfaces.models;
 
 import java.util.Date;
 
-public class UtilisateurModel {
+public class UserModel {
     private int id;
 
     private String nom;

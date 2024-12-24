@@ -68,11 +68,15 @@
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-jdbc-mysql</artifactId>
         </dependency>
-
         <dependency>
-    <groupId>io.quarkus</groupId>
-    <artifactId>quarkus-rest-jackson</artifactId>
-</dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-hibernate-orm</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-hibernate-orm-panache</artifactId>
+        </dependency>
+
 
     </dependencies>
 

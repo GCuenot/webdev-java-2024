@@ -13,11 +13,11 @@ public class TicketModel {
 
     private ETAT_TICKET etat;
 
-    private UtilisateurModel utilisateur_createur;
+    private UserModel utilisateur_createur;
 
     private String type_demande;
 
-    private PosteModel poste_informatique;
+    private DeviceModel poste_informatique;
 
     private Date date_mise_a_jour;
 

@@ -10,11 +10,11 @@
          "etat": "En cours",
          "utilisateur_createur": "Patrick",
          "poste_informatique": "1",
-         "type_demande": "Probleme réseau"
+         "type_demande": "Probleme reseau"
      },
      {
          "id": "2",
-         "titre": "Mise à jour de logiciels",
+         "titre": "Mise a jour de logiciels",
          "description": "Installation de la derniere version de Microsoft Office sur le poste de Marylise.",
          "date_creation": "2024-12-11T14:15:00",
          "date_mise_a_jour": "2024-12-11T16:45:00",
@@ -22,7 +22,7 @@
          "etat": "Resolu",
          "utilisateur_createur": "Marylise",
          "poste_informatique": "2",
-         "type_demande": "Mise à jour logicielle"
+         "type_demande": "Mise a jour logicielle"
      },
      {
          "id": "3",
